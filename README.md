@@ -1,9 +1,10 @@
 # ClearerSea
-EN
+### EN
 This project was a collaborative effort among myself and three other colleagues, serving as our final project. My specific role within the project was to implement the Image Processing component using Python and the OpenCV library. Our project, named ClearerSea, aimed to develop a system capable of floating on any body of water, such as the sea, and using image processing techniques to detect and collect debris present on the water's surface. Due to the circumstances surrounding the Covid-19 pandemic, with stringent lockdown measures in place, the progress of our project was significantly delayed, and we were unable to complete it in its entirety. However, approximately 80% of the project was accomplished. Although our robot was capable of navigating on the water's surface, we intended for it to follow a predetermined route autonomously, which we were unable to implement within the allocated timeframe. Consequently, we opted for manual control via remote command. The script responsible for detecting debris on the water's surface, which I developed, was initially rudimentary and underwent substantial modifications over time. Unfortunately, the final version of this script is no longer available. Nonetheless, the basic mechanics of the robot's operation can be discerned from the code snippets contained within this repository.
 
-TR
+### TR
 Bu proje benim ve 3 ayrı arkadaşımın bitirme projesiydi. Benim bu projedeki görevim Python ve OpenCV kütüphanesi kullanarak Image Processing kısmını yapmaktı. Bizim projemiz yani ClearerSea projesi herhangi bir su yüzeyinde mesela deniz gibi yüzecek ve image processing kullanarak su yüzeyindeki çöpleri fark edip bunları toplayacak şeklinde bir projeydi. Projemiz Covid-19 zamanlarında yaşandığından dolayı çok fazla sokağa çıkma yasaklarından dolayı çok sarktı ve tam olarak projeyi bitiremedik ama yaklaşık %80'lik kısmı bitmişti. Su yüzeyinde robotumuz gidebiliyordu fakat bir belli bir rotayı takip etmesini istiyorduk, onu zamanında yetiştiremeyince direk kumandadan kontrol olarak yaptık. Su yüzeyindeki çöpleri bulma script'im ise bu repo üzerinde yayınladım. Bu scrip daha başlangıç script'iydi yani üzerinde çok fazla değişiklikler yapıldı ve son hali kayboldu ama bu robotun çalışma mekaniğinin basit bir yapısını burada bulunan kodlarda anlaşılabiliyor.
 
-#Images When the Script Was Running
+## Images When the Script Was Running
 
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
