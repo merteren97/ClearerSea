@@ -8,3 +8,5 @@ Bu proje benim ve 3 ayrı arkadaşımın bitirme projesiydi. Benim bu projedeki 
 ## Images When the Script Was Running
 
 ![alt text](https://github.com/merteren97/ClearerSea/blob/main/img/1.png?raw=true)
+![alt text](https://github.com/merteren97/ClearerSea/blob/main/img/2.png?raw=true)
+![alt text](https://github.com/merteren97/ClearerSea/blob/main/img/3.png?raw=true)
